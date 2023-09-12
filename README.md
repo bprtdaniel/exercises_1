@@ -1,2 +1,2 @@
 # exercises_1
-First Assignment
+"Hello GitHub!"
